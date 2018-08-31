@@ -2,7 +2,7 @@
   "author": "Dominic Tarr <dominic.tarr@gmail.com> (dominictarr.com)",
   "name": "decred-crypto-browserify",
   "description": "partial implementation of crypto for the browser",
-  "version": "1.0.9D",
+  "version": "1.0.9",
   "homepage": "https://github.com/horus20/crypto-browserify",
   "repository": {
     "type": "git",
